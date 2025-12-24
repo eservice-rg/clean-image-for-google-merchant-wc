@@ -117,14 +117,30 @@ Separate feed images for:
 
 ## Screenshots
 
-1. Google Merchant Center feed image metabox  
-2. WooCommerce Screen Options panel  
-3. OpenAI API & Global Defaults (PRO)  
-4. Feed Image Bulk Editor (PRO)  
-5. Multi-Channel CSV Export (PRO)  
-6. PRO metabox toggles via Screen Options  
-7. AI Clean Image button comparison (PRO)  
-8. Facebook, Pinterest & TikTok feed metaboxes (PRO)
+### 1. Google Merchant Center feed image metabox
+![Google Merchant Clean Image Metabox](screenshots/screenshot-1.png)
+
+### 2. WooCommerce Screen Options panel
+![Screen Options](screenshots/screenshot-2.png)
+
+### 3. OpenAI API key & global default images (PRO)
+![OpenAI Settings](screenshots/screenshot-3.png)
+
+### 4. Feed Image Bulk Editor (PRO)
+![Bulk Editor](screenshots/screenshot-4.png)
+
+### 5. Export Multi-Channel Image CSV (PRO)
+![CSV Export](screenshots/screenshot-5.png)
+
+### 6. Screen Options showing PRO metabox toggles (PRO)
+![Screen Options PRO](screenshots/screenshot-6.png)
+
+### 7. Generate Clean Image (AI) button (PRO)
+![AI Clean Image](screenshots/screenshot-7.png)
+
+### 8. Facebook, Pinterest, TikTok feed image metaboxes (PRO)
+![Multi-channel Metaboxes](screenshots/screenshot-8.png)
+
 
 ---
 
@@ -330,6 +346,7 @@ Your usage depends on:
 - The OpenAI model used at that moment
 
 This makes AI background removal a cost-effective solution even for large catalogs.
+
 ---
 
 ## Changelog
